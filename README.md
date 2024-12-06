@@ -1,4 +1,3 @@
-![alt text](https://github.com/Rishav-hub/face_auth_dev/blob/b440f8d95722e3c26a917011a3f89c7aed7b711a/docs/68747470733a2f2f696e6575726f6e2e61692f696d616765732f696e6575726f6e2d6c6f676f2e706e67.png?raw=true)
 
 # Face Authentication System
 
@@ -78,4 +77,4 @@ docker run -d -p 8000:8000 <IMAGEID OR IMAGENAME>
 - Azure App Services for deploying the application
 - GitHub Actions for CI/CD
 
-#### Please refer this [documentation](https://github.com/Rishav-hub/face_auth_dev/blob/main/docs/setup.md) for deployment to Azure.
+
