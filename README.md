@@ -11,7 +11,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ### Step 1-: Clone the Repository
 ```
-git clone https://github.com/Deep-Learning-01/Deep-Authenticator.git
+git clone https://github.com/abhimgkku/deep-face-authenticator.git
 ```
 
 ### Step 2-: Creat conda environment
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Step 5-: Export the environment variable
 ```
-export SECRET_KEY=<SECRET_KEY>
+export SECRET_KEY=<YOUR SECRET KEY>
 
 export ALGORITHM=<ALGORITHM>
 
@@ -45,7 +45,7 @@ export EMBEDDING_COLLECTION_NAME=<EMBEDDING_COLLECTION_NAME>
 ```
 ### .env file
 ```
-SECRET_KEY=KlgH6AzYDeZeGwD288to79I3vTHT8wp7
+SECRET_KEY= <Your Secret Key>
 ALGORITHM=HS256
 DATABASE_NAME='UserDatabase'
 USER_COLLECTION_NAME='User'
